@@ -21,8 +21,8 @@ External Python Libraries:-
 	Make sure you have Python installed (and added to your Path). If not follow this <a href="https://realpython.com/installing-python/">tutorial</a> to install Python.
 </li>
 <li>
-To install required libraries and their dependencies, use `pip`. Follow <a href="https://www.w3schools.com/python/python_pip.asp">this</a> to learn more about Python's default package manager.
-	
+To install required libraries and their dependencies, use <code>pip</code>. Follow <a href="https://www.w3schools.com/python/python_pip.asp">this</a> to learn more about Python's default package manager.
+
 	pip install pandas
 	pip install numpy
 
